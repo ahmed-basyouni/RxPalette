@@ -1,6 +1,10 @@
 # RxPalette
 A reactive layer on top of android plaette (easy and hassle-free) using [RxJava 2](https://github.com/ReactiveX/RxJava)
 
+# Grdadle
+
+compile 'com.ark.android:RxPalette:1.0.1'
+
 # how to use
 #### easy just call
 
