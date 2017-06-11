@@ -4,7 +4,7 @@ A reactive layer on top of android plaette (easy and hassle-free) using [RxJava 
 # Gradle
 ````
 compile 'com.ark.android:RxPalette:1.0.1'
-```
+````
 
 # how to use
 #### easy just call
