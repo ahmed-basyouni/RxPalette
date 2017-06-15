@@ -1,6 +1,8 @@
 # RxPalette
 A reactive layer on top of android palette (easy and hassle-free) using [RxJava 2](https://github.com/ReactiveX/RxJava)
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RxPalette-blue.svg?style=plastic)](https://android-arsenal.com/details/1/5882)
+
 # Gradle
 ````
 compile 'com.ark.android:RxPalette:1.0.1'
